@@ -1,0 +1,42 @@
+Avengers: Endgame	English	Mon Jan 09 2023	23:00	Jaanu	B8
+Avengers: Endgame	English	Mon Jan 09 2023	23:00	Jaanu	B7
+Captain Marvel	Tamil	Mon Jan 09 2023	23:00	jgj	A4
+Avengers: Endgame	English	Tue Jan 10 2023	07:00	jva	A3
+Snow Queen 2	Tamil	Tue Jan 10 2023	07:00	hgfhy	A1
+Jurassic Park 3	Hindi	Mon Jan 09 2023	23:00	kjks	B5
+Avatar 2	Hindi	Tue Jan 10 2023	07:00	jhuewik	A4
+Captain Marvel	Hindi	Tue Jan 10 2023	07:00	kuheo	B7
+Avatar 2	English	Tue Jan 10 2023	07:00	nv	C6
+Captain Marvel	English	Tue Jan 10 2023	07:00	JKO]	A7
+Captain Marvel	English	Mon Jan 09 2023	23:00	KMLM	A5
+Snow Queen 2	English	Tue Jan 10 2023	07:00	Jaanu	A1
+Snow Queen 2	English	Tue Jan 10 2023	07:00	janani	A2
+Captain Marvel	English	Tue Jan 10 2023	07:00	james	A6
+Captain Marvel	English	Tue Jan 10 2023	07:00	ksh	A9
+Captain Marvel	English	Tue Jan 10 2023	07:00	jhk	A8
+Captain Marvel	English	Tue Jan 10 2023	07:00	jks	B7
+Avengers: Endgame	English	Tue Jan 10 2023	10:15	jhihp	B8
+Avengers: Endgame	English	Tue Jan 10 2023	10:15	vghyfu	A5
+Snow Queen 2	English	Sat Jan 14 2023	13:30	ljl	A8
+Snow Queen 2	English	Sat Jan 14 2023	13:30	khol	A8
+Bumblebee	English	Tue Jan 10 2023	10:15	kjhske	A1
+Captain Marvel	English	Tue Jan 10 2023	10:15	Ashwanth	A1
+Captain Marvel	English	Tue Jan 10 2023	10:15	Jaanu	A4
+Avengers: Endgame	English	Wed Jan 11 2023	07:00	nsk	A5
+Avengers: Endgame	English	Wed Jan 11 2023	07:00	kjhi	A6
+Avengers: Endgame	English	Wed Jan 11 2023	07:00	iubho	C7
+Avengers: Endgame	English	Wed Jan 11 2023	07:00	ho	B7
+Avengers: Endgame	English	Wed Jan 11 2023	07:00	ujhbik	A8
+Avengers: Endgame	English	Tue Jan 10 2023	13:30	jaanu	A1
+Avengers: Endgame	English	Tue Jan 10 2023	13:30	janani	A6
+Avengers: Endgame	English	Tue Jan 10 2023	13:30	varsha	C6	C8	C7
+Captain Marvel	English	Wed Jan 11 2023	16:45	janani	B6	B9	B8	B7
+Captain Marvel	English	Wed Jan 11 2023	16:45	varsha	D7	D6	D5	C4
+Captain Marvel	English	Wed Jan 11 2023	16:45	jana	C8	C9	A8
+Captain Marvel	English	Wed Jan 11 2023	10:15	Ashwanth	B3	B4	B6
+Captain Marvel	English	Thu Jan 12 2023	07:00	Janani	A8	B8
+Ice Age 4	Tamil	Tue Jan 10 2023	20:00	Shalini	E8	E7
+Avengers: Endgame	English	Tue Jan 10 2023	16:45	Aditya	A5	A6
+Avengers: Endgame	English	Tue Jan 10 2023	16:45	Jaanu	A7	A8
+Nitham oru vaanam	Tamil	Wed Jan 11 2023	16:45	Janani	A6
+Snow Queen 2	English	Mon Jan 16 2023	07:00	ABCDE	A1	A2	A3	A4	A5	A6
